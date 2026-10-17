@@ -3,6 +3,7 @@
 static reverse of a perimetery / human bot defender client sensor. `main.min.js`, 315kb, 6 lines of minified hell. app id `PXu6b0qd2S` (walmart.com build). comes bundled w/ the code defender module too.
 
 deobfuscated the whole thing, all 5 layers undone, sensor crypto re'd in plain node and checked against a real captured request. nothing was ever sent to px infra — all static + local.
+work is half done, but can be used to complete the work and finish infrastructure.
 
 ## files
 
